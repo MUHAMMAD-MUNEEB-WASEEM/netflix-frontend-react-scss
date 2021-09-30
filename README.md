@@ -18,7 +18,7 @@ https://admin-panel-c0138.web.app/users
 
 
 ## Clone Project:
-https://github.com/MUHAMMAD-MUNEEB-WASEEM/netflix-react.git
+git clone https://github.com/MUHAMMAD-MUNEEB-WASEEM/netflix-react.git
 
 ## Start Project:
 * yarn install
