@@ -10,9 +10,17 @@ https://github.com/MUHAMMAD-MUNEEB-WASEEM/react-admin-dashboard
 **App Link**:
 https://admin-panel-c0138.web.app/users
 
+## Dependencies Used:
+
+* yarn add scss
+* yarn add @material-ui/core
+* yarn add @material-ui/icons
+
+
 ## Clone Project:
 https://github.com/MUHAMMAD-MUNEEB-WASEEM/netflix-react.git
 
 ## Start Project:
 * yarn install
 * yarn start
+
